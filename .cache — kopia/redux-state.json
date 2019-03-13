@@ -1,0 +1,5780 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f3da02e720325ab818c4e3ca4851123f",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "91351bed0e663b0793948e9f6744cd61",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "ee8df9c0c62ab2f0ca331a2cc3bf28e6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "90981bb2ac09e77b15ddda36bb9b6bff",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "3e20d9d167c769f6e2a90cb8a32e4819",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "3b869bb68fedc8e0af526a8899cf698b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "90bb559cd46f0530f001a6de687cdb58",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48ef627-53ea-59ce-af87-289372b00d92": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-styled-jsx",
+      "id": "d48ef627-53ea-59ce-af87-289372b00d92",
+      "name": "gatsby-plugin-styled-jsx",
+      "version": "3.0.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateBabelConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-styled-jsx",
+      "packageJson": {
+        "name": "gatsby-plugin-styled-jsx",
+        "description": "Adds SSR support for styled-jsx",
+        "version": "3.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "styled-jsx"
+        ],
+        "author": {
+          "name": "Tim Suchanek",
+          "email": "tim.suchanek@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "styled-jsx",
+            "version": "^3.0.2"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "ecc6bb7cefae761f4ac16567a32d551b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6fbf8a2f-7648-5fde-b7b8-b5f14c7e6b45": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-styled-jsx-postcss",
+      "id": "6fbf8a2f-7648-5fde-b7b8-b5f14c7e6b45",
+      "name": "gatsby-plugin-styled-jsx-postcss",
+      "version": "2.0.2",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateBabelConfig",
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-styled-jsx-postcss",
+      "packageJson": {
+        "name": "gatsby-plugin-styled-jsx-postcss",
+        "description": "A Gatsby plugin to use styled-jsx with PostCSS",
+        "version": "2.0.2",
+        "main": "gatsby-ssr.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "styled-jsx",
+          "postcss"
+        ],
+        "author": {
+          "name": "Kennedy Rose",
+          "email": "kennedy@escaladesports.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.0.3"
+          },
+          {
+            "name": "es6-error",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^6.0.1"
+          },
+          {
+            "name": "globby",
+            "version": "^8.0.1"
+          },
+          {
+            "name": "styled-jsx-plugin-postcss",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "touch",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-rewire",
+            "version": "^1.1.0"
+          },
+          {
+            "name": "babel-plugin-transform-async-to-generator",
+            "version": "^6.24.1"
+          },
+          {
+            "name": "babel-plugin-transform-es2015-modules-commonjs",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-export-extensions",
+            "version": "^6.22.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-runtime",
+            "version": "^6.23.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^1.9.36"
+          },
+          {
+            "name": "gatsby-node-helpers",
+            "version": "^0.1.1"
+          },
+          {
+            "name": "jest",
+            "version": "^21.1.0"
+          },
+          {
+            "name": "joi",
+            "version": "^11.0.1"
+          },
+          {
+            "name": "opn-cli",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.9.2"
+          },
+          {
+            "name": "styled-jsx",
+            "version": "^2.2.6"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "6ebe41918d4850e684839a640e0b18ce",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "4723948e-2fe2-5f0e-8b50-6efd2e80df33": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-layout",
+      "id": "4723948e-2fe2-5f0e-8b50-6efd2e80df33",
+      "name": "gatsby-plugin-layout",
+      "version": "1.0.13",
+      "pluginOptions": {
+        "plugins": [],
+        "component": "C:\\Users\\fokstrot1\\Desktop\\Nowy folder (5)\\stuff\\src\\layouts\\index.js"
+      },
+      "nodeAPIs": [
+        "onPreInit",
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [
+        "wrapPageElement"
+      ],
+      "ssrAPIs": [
+        "wrapPageElement"
+      ],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-layout",
+      "packageJson": {
+        "name": "gatsby-plugin-layout",
+        "description": "Reimplements the behavior of layout components in gatsby@1, which was removed in version 2.",
+        "version": "1.0.13",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "b4ebdd5892af4ed8317f643f3840b4cb",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6d9be715-33bd-5930-a25a-6944d1886c16": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-algolia",
+      "id": "6d9be715-33bd-5930-a25a-6944d1886c16",
+      "name": "gatsby-plugin-algolia",
+      "version": "0.1.1",
+      "pluginOptions": {
+        "plugins": [],
+        "appId": "",
+        "apiKey": "",
+        "indexName": "",
+        "queries": [
+          {
+            "query": "{\n  allMarkdownRemark( filter: { fields: { slug: { ne: null } } }) {\n    edges {\n      node {\n        objectID: fileAbsolutePath\n        fields {\n          slug\n        }\n        internal {\n          content\n        }\n        frontmatter {\n          title\n        }\n      }\n    }\n  }\n}"
+          }
+        ],
+        "chunkSize": 10000
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-algolia",
+      "packageJson": {
+        "name": "gatsby-plugin-algolia",
+        "description": "A gatsby plugin to push to Algolia based on a certain query",
+        "version": "0.1.1",
+        "keywords": [
+          "gatsby",
+          "search",
+          "graphql",
+          "algolia",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Algolia"
+        },
+        "license": "Apache-2.0",
+        "dependencies": [
+          {
+            "name": "algoliasearch",
+            "version": "^3.24.5"
+          },
+          {
+            "name": "gatsby-cli",
+            "version": "^1.1.58"
+          },
+          {
+            "name": "lodash.chunk",
+            "version": "^4.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "standard-version",
+            "version": "^4.4.0"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "7eed1101a979913e23978fff8f97242f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1c882370-4e2f-5661-9258-2eac0b7f6b0c": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-source-filesystem",
+      "id": "1c882370-4e2f-5661-9258-2eac0b7f6b0c",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.24",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "images",
+        "path": "C:\\Users\\fokstrot1\\Desktop\\Nowy folder (5)\\stuff/src/images/"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.24",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "077e6a96c132251707d1142b850ead0c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "c99bb371-74ae-501b-ada9-8cf277744b37": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-source-filesystem",
+      "id": "c99bb371-74ae-501b-ada9-8cf277744b37",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.24",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:\\Users\\fokstrot1\\Desktop\\Nowy folder (5)\\stuff/content/posts/",
+        "name": "posts"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.24",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "1c0abe06878146afdb60d446aad3ec19",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "cb6b6d9a-3650-5661-b29c-cc9888f9dcb6": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-source-filesystem",
+      "id": "cb6b6d9a-3650-5661-b29c-cc9888f9dcb6",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.24",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:\\Users\\fokstrot1\\Desktop\\Nowy folder (5)\\stuff/content/pages/",
+        "name": "pages"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.24",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "22b964286e09b01dde4eedd5ee6b32b2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "ef0bca80-8ff3-5aae-938e-ff7896027af6": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-source-filesystem",
+      "id": "ef0bca80-8ff3-5aae-938e-ff7896027af6",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.24",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "parts",
+        "path": "C:\\Users\\fokstrot1\\Desktop\\Nowy folder (5)\\stuff/content/parts/"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.24",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "f2b647d7133d4697b7213f4055c6351f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d0c950d4-9577-5b67-a29a-ef4a45fa3046": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-transformer-remark",
+      "id": "d0c950d4-9577-5b67-a29a-ef4a45fa3046",
+      "name": "gatsby-transformer-remark",
+      "version": "2.3.2",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-sharp",
+            "id": "84d6154d-4241-556c-a679-cc8339cac100",
+            "name": "gatsby-plugin-sharp",
+            "version": "2.0.28",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [
+              "onPreBootstrap"
+            ],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-sharp"
+          },
+          {
+            "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-images",
+            "id": "0d46a555-06c4-567b-a668-41ea073531c1",
+            "name": "gatsby-remark-images",
+            "version": "2.0.6",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 800,
+              "backgroundColor": "transparent"
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-responsive-iframe",
+            "id": "93d50a60-9da0-56ca-bf19-d37e59c7f117",
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "2.0.10",
+            "pluginOptions": {
+              "plugins": [],
+              "wrapperStyle": "margin-bottom: 2em"
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-responsive-iframe"
+          },
+          {
+            "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-prismjs",
+            "id": "b8d3a2f5-5540-5699-b862-153e57b2c618",
+            "name": "gatsby-remark-prismjs",
+            "version": "3.2.5",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-prismjs"
+          },
+          {
+            "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-copy-linked-files",
+            "id": "80533a5b-ad2d-50ff-af51-726674869458",
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "2.0.10",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-copy-linked-files"
+          },
+          {
+            "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-smartypants",
+            "id": "90305615-131b-5991-a708-2c2d1c43d946",
+            "name": "gatsby-remark-smartypants",
+            "version": "2.0.9",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-smartypants"
+          },
+          {
+            "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-emojis",
+            "id": "7dd28449-6652-52b3-baf3-608c73027bd0",
+            "name": "gatsby-remark-emojis",
+            "version": "0.2.5",
+            "pluginOptions": {
+              "plugins": [],
+              "active": true,
+              "class": "emoji-icon",
+              "size": 64,
+              "styles": {
+                "display": "inline",
+                "margin": "0",
+                "margin-top": "1px",
+                "position": "relative",
+                "top": "5px",
+                "width": "25px"
+              }
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-emojis"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.3.2",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-to-string",
+            "version": "^1.0.5"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.5"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.88"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "9edc9afe654954e8f5b781a950421736",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.28",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.28",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "b410eab9a4f935bf440857dfef11367a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "0d46a555-06c4-567b-a668-41ea073531c1": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-images",
+      "id": "0d46a555-06c4-567b-a668-41ea073531c1",
+      "name": "gatsby-remark-images",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 800,
+        "backgroundColor": "transparent"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "2.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit-parents",
+            "version": "^2.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.5"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "227f2fc48b917939dc09ff7923d39294",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "93d50a60-9da0-56ca-bf19-d37e59c7f117": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-responsive-iframe",
+      "id": "93d50a60-9da0-56ca-bf19-d37e59c7f117",
+      "name": "gatsby-remark-responsive-iframe",
+      "version": "2.0.10",
+      "pluginOptions": {
+        "plugins": [],
+        "wrapperStyle": "margin-bottom: 2em"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-responsive-iframe",
+      "packageJson": {
+        "name": "gatsby-remark-responsive-iframe",
+        "description": "Make iframes in Markdown processed by Remark responsive",
+        "version": "2.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "unist-util-find",
+            "version": "^1.0.1"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "79c7262774cbee828be7a9c2172272ec",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "b8d3a2f5-5540-5699-b862-153e57b2c618": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-prismjs",
+      "id": "b8d3a2f5-5540-5699-b862-153e57b2c618",
+      "name": "gatsby-remark-prismjs",
+      "version": "3.2.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-prismjs",
+      "packageJson": {
+        "name": "gatsby-remark-prismjs",
+        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
+        "version": "3.2.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "parse-numeric-range",
+            "version": "^0.0.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "8cd2ff9bb5634f1153ad7956bbafafa9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "80533a5b-ad2d-50ff-af51-726674869458": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-copy-linked-files",
+      "id": "80533a5b-ad2d-50ff-af51-726674869458",
+      "name": "gatsby-remark-copy-linked-files",
+      "version": "2.0.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-copy-linked-files",
+      "packageJson": {
+        "name": "gatsby-remark-copy-linked-files",
+        "description": "Find files which are linked to from markdown and copy them to the public directory",
+        "version": "2.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "path-is-inside",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "08a546b3ac87079df7a94e6225bfa171",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "90305615-131b-5991-a708-2c2d1c43d946": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-smartypants",
+      "id": "90305615-131b-5991-a708-2c2d1c43d946",
+      "name": "gatsby-remark-smartypants",
+      "version": "2.0.9",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-smartypants",
+      "packageJson": {
+        "name": "gatsby-remark-smartypants",
+        "description": "Use retext-smartypants to auto-enhance typography of markdown",
+        "version": "2.0.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "smartypants"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "retext",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-smartypants",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "dff1f03cd953cf6323c0e865c1e8d165",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7dd28449-6652-52b3-baf3-608c73027bd0": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-emojis",
+      "id": "7dd28449-6652-52b3-baf3-608c73027bd0",
+      "name": "gatsby-remark-emojis",
+      "version": "0.2.5",
+      "pluginOptions": {
+        "plugins": [],
+        "active": true,
+        "class": "emoji-icon",
+        "size": 64,
+        "styles": {
+          "display": "inline",
+          "margin": "0",
+          "margin-top": "1px",
+          "position": "relative",
+          "top": "5px",
+          "width": "25px"
+        }
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-remark-emojis",
+      "packageJson": {
+        "name": "gatsby-remark-emojis",
+        "description": "Processes emoji in markdown and inlines `<img>` tags with the corresponding base64 corresponding of the image.",
+        "version": "0.2.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark",
+          "emoji"
+        ],
+        "author": {
+          "name": "Mathias Schilling",
+          "email": "m@matchilling.com",
+          "url": "https://www.matchilling.com"
+        },
+        "license": "GPL-3.0",
+        "devDependencies": [
+          {
+            "name": "chai",
+            "version": "^4.2.0"
+          },
+          {
+            "name": "mocha",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "sinon",
+            "version": "^7.2.3"
+          }
+        ],
+        "dependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "3b000194397b25d512a39bec3af8bbeb",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.17",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.17",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "d6adeb200626733c3e5f33f8cfd30f9d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.9",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "025d7a1d1d45cafdd67580bfcf5ee01d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "ca2c6d45-3cbb-5520-81b0-744c9701d15c": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-catch-links",
+      "id": "ca2c6d45-3cbb-5520-81b0-744c9701d15c",
+      "name": "gatsby-plugin-catch-links",
+      "version": "2.0.13",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-catch-links",
+      "packageJson": {
+        "name": "gatsby-plugin-catch-links",
+        "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
+        "version": "2.0.13",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "escape-string-regexp",
+            "version": "^1.0.5"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "61087e78a53a622bd62009ca706aa699",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "e5a9b91c-07be-53d8-9b4d-7e4aa315dd23": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-manifest",
+      "id": "e5a9b91c-07be-53d8-9b4d-7e4aa315dd23",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.24",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "Adam Perlinski - personal blog and website.",
+        "short_name": "Perlinski",
+        "start_url": "/index.html",
+        "background_color": "white",
+        "theme_color": "#666",
+        "display": "standalone",
+        "icons": [
+          {
+            "src": "/icons/icon-48x48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+          },
+          {
+            "src": "/icons/icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+          },
+          {
+            "src": "/icons/icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+          },
+          {
+            "src": "/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+          },
+          {
+            "src": "/icons/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+          },
+          {
+            "src": "/icons/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+          },
+          {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.24",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.15"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "a8f084d27fbcf1a5aae58d29e44d897d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "63e5f7ff-e5f1-58f7-8e2c-55872ac42281": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-offline",
+      "id": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "name": "gatsby-plugin-offline",
+      "version": "2.0.25",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "browserAPIs": [
+        "registerServiceWorker",
+        "onServiceWorkerActive",
+        "onPostPrefetchPathname"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "2.0.25",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "idb-keyval",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "workbox-build",
+            "version": "^3.6.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cpx",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.100"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "3d2c650f0cfa390706517441f8d42d46",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "624c196c-30dd-59e4-bcdd-a6f980c0396f": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-google-analytics",
+      "id": "624c196c-30dd-59e4-bcdd-a6f980c0396f",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "2.0.17",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "2.0.17",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "d97ce5ead331bd8850ebd6a457cef146",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d47d8b43-0fef-504e-b6d6-52d50f42482e": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-feed",
+      "id": "d47d8b43-0fef-504e-b6d6-52d50f42482e",
+      "name": "gatsby-plugin-feed",
+      "version": "2.0.15",
+      "pluginOptions": {
+        "plugins": [],
+        "query": "\n          {\n            site {\n              siteMetadata {\n                title\n                description\n                siteUrl\n                site_url: siteUrl\n              }\n            }\n          }\n        ",
+        "feeds": [
+          {
+            "query": "\n              {\n                allMarkdownRemark(\n                  limit: 1000,\n                  sort: { order: DESC, fields: [fields___prefix] },\n                  filter: {\n                    fields: {\n                      prefix: { ne: null },\n                      slug: { ne: null }\n                    },\n                    frontmatter: {\n                      author: { ne: null }\n                    }\n                  }\n                ) {\n                  edges {\n                    node {\n                      excerpt\n                      html\n                      fields {\n                        slug\n                        prefix\n                      }\n                      frontmatter {\n                        title\n                      }\n                    }\n                  }\n                }\n              }\n            ",
+            "output": "/rss.xml"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-feed",
+      "packageJson": {
+        "name": "gatsby-plugin-feed",
+        "description": "Creates an RSS feed for your Gatsby site.",
+        "version": "2.0.15",
+        "main": "index.js",
+        "keywords": [
+          "atom",
+          "feed",
+          "gatsby",
+          "gatsby-plugin",
+          "rss"
+        ],
+        "author": {
+          "name": "Nicholas Young",
+          "email": "nicholas@nicholaswyoung.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "lodash.merge",
+            "version": "^4.6.0"
+          },
+          {
+            "name": "mkdirp",
+            "version": "^0.5.1"
+          },
+          {
+            "name": "pify",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "rss",
+            "version": "^1.2.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "bfe2c09303d5a2a7dab3acb5890069d8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7ed4ef2d-51f4-5ab3-8a20-87d86e28008d": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-sitemap",
+      "id": "7ed4ef2d-51f4-5ab3-8a20-87d86e28008d",
+      "name": "gatsby-plugin-sitemap",
+      "version": "2.0.9",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-sitemap",
+      "packageJson": {
+        "name": "gatsby-plugin-sitemap",
+        "description": "Gatsby plugin that automatically creates a sitemap for your site",
+        "version": "2.0.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Nicholas Young &lt;nicholas@nicholaswyoung.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "minimatch",
+            "version": "^3.0.4"
+          },
+          {
+            "name": "pify",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sitemap",
+            "version": "^1.12.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "4519d8532ed5af1711801046790ac35e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d914d072-54a3-50cd-9d7c-f3ca320b229b": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-react-svg",
+      "id": "d914d072-54a3-50cd-9d7c-f3ca320b229b",
+      "name": "gatsby-plugin-react-svg",
+      "version": "2.1.0",
+      "pluginOptions": {
+        "plugins": [],
+        "include": {}
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-react-svg",
+      "packageJson": {
+        "name": "gatsby-plugin-react-svg",
+        "description": "Adds svg-react-loader to gatsby webpack config.",
+        "version": "2.1.0",
+        "main": "gatsby-node.js",
+        "keywords": [
+          "gatsby",
+          "svg",
+          "react",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Jacob Mischka",
+          "email": "jacob@mischka.me"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "svg-react-loader",
+            "version": "^0.4.4"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "24a93be15861fd74c5e4e178d5739171",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "c4b83825398579bbbb04794fb30249a3",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "createPages",
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff",
+      "packageJson": {
+        "name": "gatsby-starter-hero-blog",
+        "version": "2.0.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Greg Lobinski <greglobinski@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "antd",
+            "version": "^3.7.0"
+          },
+          {
+            "name": "fontfaceobserver",
+            "version": "^2.0.13"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.21"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-algolia",
+            "version": "^0.1.0"
+          },
+          {
+            "name": "gatsby-plugin-catch-links",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "gatsby-plugin-feed",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-plugin-layout",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "gatsby-plugin-netlify",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "gatsby-plugin-react-svg",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-sitemap",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "gatsby-plugin-styled-jsx",
+            "version": "^3.0.1"
+          },
+          {
+            "name": "gatsby-plugin-styled-jsx-postcss",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-remark-emojis",
+            "version": "^0.2.3"
+          },
+          {
+            "name": "gatsby-remark-external-links",
+            "version": "^0.0.4"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-remark-smartypants",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.1.3"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "js-yaml",
+            "version": "^3.12.0"
+          },
+          {
+            "name": "normalize.css",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          },
+          {
+            "name": "react",
+            "version": "^16.5.2"
+          },
+          {
+            "name": "react-addons-perf",
+            "version": "^15.4.2"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.5.2"
+          },
+          {
+            "name": "react-facebook",
+            "version": "^5.0.3"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-icons",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "react-instantsearch",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "react-md-spinner",
+            "version": "^0.3.0"
+          },
+          {
+            "name": "react-obfuscate",
+            "version": "^2.1.4"
+          },
+          {
+            "name": "react-share",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "react-visibility-sensor",
+            "version": "^4.1.0"
+          },
+          {
+            "name": "styled-jsx",
+            "version": "^2.2.7"
+          },
+          {
+            "name": "styled-jsx-plugin-postcss",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "styled-jsx-plugin-stylelint",
+            "version": "^0.1.0"
+          },
+          {
+            "name": "tinycolor2",
+            "version": "^1.4.1"
+          },
+          {
+            "name": "typeface-open-sans",
+            "version": "^0.0.54"
+          },
+          {
+            "name": "yaml-loader",
+            "version": "^0.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@mapbox/stylelint-processor-arbitrary-tags",
+            "version": "^0.2.0"
+          },
+          {
+            "name": "babel-eslint",
+            "version": "^8.2.6"
+          },
+          {
+            "name": "babel-plugin-dynamic-import-webpack",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "babel-plugin-import",
+            "version": "^1.8.0"
+          },
+          {
+            "name": "babel-plugin-syntax-dynamic-import",
+            "version": "^6.18.0"
+          },
+          {
+            "name": "babel-webpack-plugin",
+            "version": "^0.1.1"
+          },
+          {
+            "name": "dotenv",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "eslint",
+            "version": "^5.1.0"
+          },
+          {
+            "name": "eslint-config-google",
+            "version": "^0.9.1"
+          },
+          {
+            "name": "eslint-config-prettier",
+            "version": "^2.9.0"
+          },
+          {
+            "name": "eslint-plugin-graphql",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "eslint-plugin-import",
+            "version": "^2.13.0"
+          },
+          {
+            "name": "eslint-plugin-jsx-a11y",
+            "version": "^6.1.1"
+          },
+          {
+            "name": "eslint-plugin-prettier",
+            "version": "^2.6.2"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.10.0"
+          },
+          {
+            "name": "json-loader",
+            "version": "^0.5.7"
+          },
+          {
+            "name": "postcss",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "postcss-cli",
+            "version": "^5.0.1"
+          },
+          {
+            "name": "postcss-cssnext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "postcss-custom-properties",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "postcss-custom-selectors",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "postcss-easy-media-query",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "postcss-load-plugins",
+            "version": "^2.3.0"
+          },
+          {
+            "name": "postcss-loader",
+            "version": "^2.1.6"
+          },
+          {
+            "name": "postcss-media-variables",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "postcss-nested",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "postcss-sorting",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "postcss-text-remove-gap",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "postcss-utilities",
+            "version": "^0.8.0"
+          },
+          {
+            "name": "precss",
+            "version": "^3.1.2"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.13.7"
+          },
+          {
+            "name": "serve",
+            "version": "^9.2.0"
+          },
+          {
+            "name": "sharp-cli",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "stylelint",
+            "version": "^9.3.0"
+          },
+          {
+            "name": "stylelint-config-css-modules",
+            "version": "^1.3.0"
+          },
+          {
+            "name": "stylelint-config-standard",
+            "version": "^18.2.0"
+          },
+          {
+            "name": "url-loader",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "webpack-bundle-analyzer",
+            "version": "^2.13.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "4a46cb24960cad5f7a6c92b85816465e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "e9b4751c-2389-584a-b230-93ef1050d581": {
+      "resolve": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-page-creator",
+      "id": "e9b4751c-2389-584a-b230-93ef1050d581",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.10",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "d3e779b29b48cf605d41f057b7d6e3b1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Adam Perlinski - personal blog and website.",
+        "description": "Blog about IT and social things.",
+        "siteUrl": "http://adamperlinski.cba.pl",
+        "algolia": {
+          "appId": "",
+          "searchOnlyApiKey": "",
+          "indexName": ""
+        },
+        "facebook": {
+          "appId": ""
+        }
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-03-13T03:08:32.488Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "382a9ef43f6aec6799d654fdb72812e6",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d4130a29-bd17-529e-89f0-2224d1f09381": {
+      "id": "d4130a29-bd17-529e-89f0-2224d1f09381",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "56557dd2b8374527f805580f862033d0",
+        "type": "Directory",
+        "description": "Directory \"src\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-03-13T01:52:27.625Z",
+      "accessTime": "2019-03-13T01:52:27.625Z",
+      "changeTime": "2019-03-13T01:52:27.625Z",
+      "birthTime": "2019-03-13T01:52:27.617Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 575576239,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601505,
+      "atimeMs": 1552441947625.1394,
+      "mtimeMs": 1552441947625.1394,
+      "ctimeMs": 1552441947625.1394,
+      "birthtimeMs": 1552441947617.1316,
+      "atime": "2019-03-13T01:52:27.625Z",
+      "mtime": "2019-03-13T01:52:27.625Z",
+      "ctime": "2019-03-13T01:52:27.625Z",
+      "birthtime": "2019-03-13T01:52:27.617Z"
+    },
+    "33099ea9-cf3b-54c3-bbe9-13f5cb577f2e": {
+      "id": "33099ea9-cf3b-54c3-bbe9-13f5cb577f2e",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "2abf7c7ea288cc61a4deda2cf27ccd32",
+        "type": "Directory",
+        "description": "Directory \"src\\images\\app-icons\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/app-icons",
+      "relativePath": "app-icons",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-03-13T01:52:27.619Z",
+      "accessTime": "2019-03-13T01:52:27.619Z",
+      "changeTime": "2019-03-13T01:52:27.619Z",
+      "birthTime": "2019-03-13T01:52:27.617Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images",
+      "base": "app-icons",
+      "ext": "",
+      "name": "app-icons",
+      "relativeDirectory": "",
+      "dev": 575576239,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601506,
+      "atimeMs": 1552441947619.1338,
+      "mtimeMs": 1552441947619.1338,
+      "ctimeMs": 1552441947619.1338,
+      "birthtimeMs": 1552441947617.1316,
+      "atime": "2019-03-13T01:52:27.619Z",
+      "mtime": "2019-03-13T01:52:27.619Z",
+      "ctime": "2019-03-13T01:52:27.619Z",
+      "birthtime": "2019-03-13T01:52:27.617Z"
+    },
+    "974dfd0f-4b5b-5bcc-a67b-4da47fda9457": {
+      "id": "974dfd0f-4b5b-5bcc-a67b-4da47fda9457",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "5640f69cc42fa7d8c24a70d4aa06fc60",
+        "type": "Directory",
+        "description": "Directory \"src\\images\\jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/jpg",
+      "relativePath": "jpg",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-03-13T02:22:13.304Z",
+      "accessTime": "2019-03-13T02:22:13.304Z",
+      "changeTime": "2019-03-13T02:22:13.304Z",
+      "birthTime": "2019-03-13T01:52:27.621Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images",
+      "base": "jpg",
+      "ext": "",
+      "name": "jpg",
+      "relativeDirectory": "",
+      "dev": 575576239,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601509,
+      "atimeMs": 1552443733304.4292,
+      "mtimeMs": 1552443733304.4292,
+      "ctimeMs": 1552443733304.4292,
+      "birthtimeMs": 1552441947621.1357,
+      "atime": "2019-03-13T02:22:13.304Z",
+      "mtime": "2019-03-13T02:22:13.304Z",
+      "ctime": "2019-03-13T02:22:13.304Z",
+      "birthtime": "2019-03-13T01:52:27.621Z"
+    },
+    "1b500648-0923-5c91-a61b-5fe275c9b495": {
+      "id": "1b500648-0923-5c91-a61b-5fe275c9b495",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "ffdcca8998abf7894195fa07c2628d22",
+        "type": "Directory",
+        "description": "Directory \"src\\images\\png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/png",
+      "relativePath": "png",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-03-13T02:17:04.078Z",
+      "accessTime": "2019-03-13T02:17:04.078Z",
+      "changeTime": "2019-03-13T02:17:04.078Z",
+      "birthTime": "2019-03-13T01:52:27.621Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images",
+      "base": "png",
+      "ext": "",
+      "name": "png",
+      "relativeDirectory": "",
+      "dev": 575576239,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601511,
+      "atimeMs": 1552443424078.3188,
+      "mtimeMs": 1552443424078.3188,
+      "ctimeMs": 1552443424078.3188,
+      "birthtimeMs": 1552441947621.1357,
+      "atime": "2019-03-13T02:17:04.078Z",
+      "mtime": "2019-03-13T02:17:04.078Z",
+      "ctime": "2019-03-13T02:17:04.078Z",
+      "birthtime": "2019-03-13T01:52:27.621Z"
+    },
+    "07e5e2f5-fb60-54bc-8cee-e7a8d4c87536": {
+      "id": "07e5e2f5-fb60-54bc-8cee-e7a8d4c87536",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "e7a1552e20bc6a3c8e54e13ecbcf5c0f",
+        "type": "Directory",
+        "description": "Directory \"src\\images\\svg-icons\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons",
+      "relativePath": "svg-icons",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-03-13T01:52:27.636Z",
+      "accessTime": "2019-03-13T01:52:27.636Z",
+      "changeTime": "2019-03-13T01:52:27.636Z",
+      "birthTime": "2019-03-13T01:52:27.625Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images",
+      "base": "svg-icons",
+      "ext": "",
+      "name": "svg-icons",
+      "relativeDirectory": "",
+      "dev": 575576239,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601513,
+      "atimeMs": 1552441947636.1504,
+      "mtimeMs": 1552441947636.1504,
+      "ctimeMs": 1552441947636.1504,
+      "birthtimeMs": 1552441947625.1394,
+      "atime": "2019-03-13T01:52:27.636Z",
+      "mtime": "2019-03-13T01:52:27.636Z",
+      "ctime": "2019-03-13T01:52:27.636Z",
+      "birthtime": "2019-03-13T01:52:27.625Z"
+    },
+    "82f496b7-645f-5ac0-afd0-6951568f6565": {
+      "id": "82f496b7-645f-5ac0-afd0-6951568f6565",
+      "children": [
+        "44e2fa38-b60d-54bb-8e76-d36eb4d211f3"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "3b8a9f6e34ea429bb1df5eefc564a27b",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src\\images\\jpg\\avata1r.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/jpg/avata1r.jpg",
+      "relativePath": "jpg/avata1r.jpg",
+      "extension": "jpg",
+      "size": 1148,
+      "prettySize": "1.15 kB",
+      "modifiedTime": "2019-03-13T02:22:09.698Z",
+      "accessTime": "2019-03-13T01:52:27.621Z",
+      "changeTime": "2019-03-13T02:22:09.699Z",
+      "birthTime": "2019-03-13T01:52:27.621Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/jpg",
+      "base": "avata1r.jpg",
+      "ext": ".jpg",
+      "name": "avata1r",
+      "relativeDirectory": "jpg",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601510,
+      "atimeMs": 1552441947621,
+      "mtimeMs": 1552443729698,
+      "ctimeMs": 1552443729698.9558,
+      "birthtimeMs": 1552441947621.1357,
+      "atime": "2019-03-13T01:52:27.621Z",
+      "mtime": "2019-03-13T02:22:09.698Z",
+      "ctime": "2019-03-13T02:22:09.699Z",
+      "birthtime": "2019-03-13T01:52:27.621Z"
+    },
+    "7f29592a-90ee-5d2b-a275-207934124267": {
+      "id": "7f29592a-90ee-5d2b-a275-207934124267",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "88450dd56ea1a00ba772424b30b7d34d",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src\\images\\svg-icons\\algolia-full.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons/algolia-full.svg",
+      "relativePath": "svg-icons/algolia-full.svg",
+      "extension": "svg",
+      "size": 4410,
+      "prettySize": "4.41 kB",
+      "modifiedTime": "2019-03-13T01:52:27.626Z",
+      "accessTime": "2019-03-13T01:52:27.626Z",
+      "changeTime": "2019-03-13T01:52:27.626Z",
+      "birthTime": "2019-03-13T01:52:27.626Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons",
+      "base": "algolia-full.svg",
+      "ext": ".svg",
+      "name": "algolia-full",
+      "relativeDirectory": "svg-icons",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601514,
+      "atimeMs": 1552441947626.1409,
+      "mtimeMs": 1552441947626.1409,
+      "ctimeMs": 1552441947626.1409,
+      "birthtimeMs": 1552441947626.1409,
+      "atime": "2019-03-13T01:52:27.626Z",
+      "mtime": "2019-03-13T01:52:27.626Z",
+      "ctime": "2019-03-13T01:52:27.626Z",
+      "birthtime": "2019-03-13T01:52:27.626Z"
+    },
+    "db192ef7-f2b0-5682-92a1-d99bb1f05c15": {
+      "id": "db192ef7-f2b0-5682-92a1-d99bb1f05c15",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "ac11d8d3af48622831e0e173b6e5c241",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src\\images\\svg-icons\\algolia.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons/algolia.svg",
+      "relativePath": "svg-icons/algolia.svg",
+      "extension": "svg",
+      "size": 1227,
+      "prettySize": "1.23 kB",
+      "modifiedTime": "2019-03-13T01:52:27.627Z",
+      "accessTime": "2019-03-13T01:52:27.626Z",
+      "changeTime": "2019-03-13T01:52:27.627Z",
+      "birthTime": "2019-03-13T01:52:27.626Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons",
+      "base": "algolia.svg",
+      "ext": ".svg",
+      "name": "algolia",
+      "relativeDirectory": "svg-icons",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601515,
+      "atimeMs": 1552441947626.1409,
+      "mtimeMs": 1552441947627.1416,
+      "ctimeMs": 1552441947627.1416,
+      "birthtimeMs": 1552441947626.1409,
+      "atime": "2019-03-13T01:52:27.626Z",
+      "mtime": "2019-03-13T01:52:27.627Z",
+      "ctime": "2019-03-13T01:52:27.627Z",
+      "birthtime": "2019-03-13T01:52:27.626Z"
+    },
+    "7acf3320-fcc9-5908-9809-cafaf3955829": {
+      "id": "7acf3320-fcc9-5908-9809-cafaf3955829",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "36d4d0131f1821a5f16a87b1a4c647f9",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src\\images\\svg-icons\\babel.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons/babel.svg",
+      "relativePath": "svg-icons/babel.svg",
+      "extension": "svg",
+      "size": 10218,
+      "prettySize": "10.2 kB",
+      "modifiedTime": "2019-03-13T01:52:27.628Z",
+      "accessTime": "2019-03-13T01:52:27.627Z",
+      "changeTime": "2019-03-13T01:52:27.628Z",
+      "birthTime": "2019-03-13T01:52:27.627Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons",
+      "base": "babel.svg",
+      "ext": ".svg",
+      "name": "babel",
+      "relativeDirectory": "svg-icons",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601516,
+      "atimeMs": 1552441947627.1416,
+      "mtimeMs": 1552441947628.1426,
+      "ctimeMs": 1552441947628.1426,
+      "birthtimeMs": 1552441947627.1416,
+      "atime": "2019-03-13T01:52:27.627Z",
+      "mtime": "2019-03-13T01:52:27.628Z",
+      "ctime": "2019-03-13T01:52:27.628Z",
+      "birthtime": "2019-03-13T01:52:27.627Z"
+    },
+    "01f41623-eaf9-59d1-8a90-9f1c510168e6": {
+      "id": "01f41623-eaf9-59d1-8a90-9f1c510168e6",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "3a6f1986f0554995438b00654f04a90d",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src\\images\\svg-icons\\email.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons/email.svg",
+      "relativePath": "svg-icons/email.svg",
+      "extension": "svg",
+      "size": 325,
+      "prettySize": "325 B",
+      "modifiedTime": "2019-03-13T01:52:27.628Z",
+      "accessTime": "2019-03-13T01:52:27.628Z",
+      "changeTime": "2019-03-13T01:52:27.628Z",
+      "birthTime": "2019-03-13T01:52:27.628Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons",
+      "base": "email.svg",
+      "ext": ".svg",
+      "name": "email",
+      "relativeDirectory": "svg-icons",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601517,
+      "atimeMs": 1552441947628.1426,
+      "mtimeMs": 1552441947628.1426,
+      "ctimeMs": 1552441947628.1426,
+      "birthtimeMs": 1552441947628.1426,
+      "atime": "2019-03-13T01:52:27.628Z",
+      "mtime": "2019-03-13T01:52:27.628Z",
+      "ctime": "2019-03-13T01:52:27.628Z",
+      "birthtime": "2019-03-13T01:52:27.628Z"
+    },
+    "627a69d3-c685-53fc-91e9-554e059cb722": {
+      "id": "627a69d3-c685-53fc-91e9-554e059cb722",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "27c2eed58a455d4764ee4dce8ddc6202",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src\\images\\svg-icons\\facebook.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons/facebook.svg",
+      "relativePath": "svg-icons/facebook.svg",
+      "extension": "svg",
+      "size": 300,
+      "prettySize": "300 B",
+      "modifiedTime": "2019-03-13T01:52:27.629Z",
+      "accessTime": "2019-03-13T01:52:27.628Z",
+      "changeTime": "2019-03-13T01:52:27.629Z",
+      "birthTime": "2019-03-13T01:52:27.628Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons",
+      "base": "facebook.svg",
+      "ext": ".svg",
+      "name": "facebook",
+      "relativeDirectory": "svg-icons",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601518,
+      "atimeMs": 1552441947628.1426,
+      "mtimeMs": 1552441947629.1438,
+      "ctimeMs": 1552441947629.1438,
+      "birthtimeMs": 1552441947628.1426,
+      "atime": "2019-03-13T01:52:27.628Z",
+      "mtime": "2019-03-13T01:52:27.629Z",
+      "ctime": "2019-03-13T01:52:27.629Z",
+      "birthtime": "2019-03-13T01:52:27.628Z"
+    },
+    "768ecbb6-55c0-5964-a5ea-cf474bc2af83": {
+      "id": "768ecbb6-55c0-5964-a5ea-cf474bc2af83",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "fc99885cff57a3c0bb5074598ef29245",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src\\images\\svg-icons\\github.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons/github.svg",
+      "relativePath": "svg-icons/github.svg",
+      "extension": "svg",
+      "size": 758,
+      "prettySize": "758 B",
+      "modifiedTime": "2019-03-13T01:52:27.630Z",
+      "accessTime": "2019-03-13T01:52:27.630Z",
+      "changeTime": "2019-03-13T01:52:27.630Z",
+      "birthTime": "2019-03-13T01:52:27.630Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons",
+      "base": "github.svg",
+      "ext": ".svg",
+      "name": "github",
+      "relativeDirectory": "svg-icons",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601520,
+      "atimeMs": 1552441947630.1443,
+      "mtimeMs": 1552441947630.1443,
+      "ctimeMs": 1552441947630.1443,
+      "birthtimeMs": 1552441947630.1443,
+      "atime": "2019-03-13T01:52:27.630Z",
+      "mtime": "2019-03-13T01:52:27.630Z",
+      "ctime": "2019-03-13T01:52:27.630Z",
+      "birthtime": "2019-03-13T01:52:27.630Z"
+    },
+    "ec842372-6f94-519c-9aaf-c01227a02019": {
+      "id": "ec842372-6f94-519c-9aaf-c01227a02019",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "a0cd0faf3940f8dc7d73411fd0ff53d9",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src\\images\\svg-icons\\gatsby.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons/gatsby.svg",
+      "relativePath": "svg-icons/gatsby.svg",
+      "extension": "svg",
+      "size": 721,
+      "prettySize": "721 B",
+      "modifiedTime": "2019-03-13T01:52:27.629Z",
+      "accessTime": "2019-03-13T01:52:27.629Z",
+      "changeTime": "2019-03-13T01:52:27.629Z",
+      "birthTime": "2019-03-13T01:52:27.629Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons",
+      "base": "gatsby.svg",
+      "ext": ".svg",
+      "name": "gatsby",
+      "relativeDirectory": "svg-icons",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601519,
+      "atimeMs": 1552441947629.1438,
+      "mtimeMs": 1552441947629.1438,
+      "ctimeMs": 1552441947629.1438,
+      "birthtimeMs": 1552441947629.1438,
+      "atime": "2019-03-13T01:52:27.629Z",
+      "mtime": "2019-03-13T01:52:27.629Z",
+      "ctime": "2019-03-13T01:52:27.629Z",
+      "birthtime": "2019-03-13T01:52:27.629Z"
+    },
+    "a4d5296e-6a71-5134-af85-072e0247092c": {
+      "id": "a4d5296e-6a71-5134-af85-072e0247092c",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "638af725813347ca8c7a6b855f12f1f3",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src\\images\\svg-icons\\graphql.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons/graphql.svg",
+      "relativePath": "svg-icons/graphql.svg",
+      "extension": "svg",
+      "size": 1365,
+      "prettySize": "1.36 kB",
+      "modifiedTime": "2019-03-13T01:52:27.631Z",
+      "accessTime": "2019-03-13T01:52:27.630Z",
+      "changeTime": "2019-03-13T01:52:27.631Z",
+      "birthTime": "2019-03-13T01:52:27.630Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons",
+      "base": "graphql.svg",
+      "ext": ".svg",
+      "name": "graphql",
+      "relativeDirectory": "svg-icons",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601521,
+      "atimeMs": 1552441947630.1443,
+      "mtimeMs": 1552441947631.1453,
+      "ctimeMs": 1552441947631.1453,
+      "birthtimeMs": 1552441947630.1443,
+      "atime": "2019-03-13T01:52:27.630Z",
+      "mtime": "2019-03-13T01:52:27.631Z",
+      "ctime": "2019-03-13T01:52:27.631Z",
+      "birthtime": "2019-03-13T01:52:27.630Z"
+    },
+    "4dda6869-9f31-547f-81a7-43dc76907c2b": {
+      "id": "4dda6869-9f31-547f-81a7-43dc76907c2b",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "caaacc9191b2d8440d7ef50867432bfb",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src\\images\\svg-icons\\jss.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons/jss.svg",
+      "relativePath": "svg-icons/jss.svg",
+      "extension": "svg",
+      "size": 1439,
+      "prettySize": "1.44 kB",
+      "modifiedTime": "2019-03-13T01:52:27.632Z",
+      "accessTime": "2019-03-13T01:52:27.631Z",
+      "changeTime": "2019-03-13T01:52:27.632Z",
+      "birthTime": "2019-03-13T01:52:27.631Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons",
+      "base": "jss.svg",
+      "ext": ".svg",
+      "name": "jss",
+      "relativeDirectory": "svg-icons",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601522,
+      "atimeMs": 1552441947631.1453,
+      "mtimeMs": 1552441947632.1467,
+      "ctimeMs": 1552441947632.1467,
+      "birthtimeMs": 1552441947631.1453,
+      "atime": "2019-03-13T01:52:27.631Z",
+      "mtime": "2019-03-13T01:52:27.632Z",
+      "ctime": "2019-03-13T01:52:27.632Z",
+      "birthtime": "2019-03-13T01:52:27.631Z"
+    },
+    "4467eb44-aaa1-5cd4-995a-91f4e9243f90": {
+      "id": "4467eb44-aaa1-5cd4-995a-91f4e9243f90",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "8138452e6c473b106e07e7d121c3f47e",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src\\images\\svg-icons\\material-ui.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons/material-ui.svg",
+      "relativePath": "svg-icons/material-ui.svg",
+      "extension": "svg",
+      "size": 1348,
+      "prettySize": "1.35 kB",
+      "modifiedTime": "2019-03-13T01:52:27.633Z",
+      "accessTime": "2019-03-13T01:52:27.632Z",
+      "changeTime": "2019-03-13T01:52:27.633Z",
+      "birthTime": "2019-03-13T01:52:27.632Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons",
+      "base": "material-ui.svg",
+      "ext": ".svg",
+      "name": "material-ui",
+      "relativeDirectory": "svg-icons",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601523,
+      "atimeMs": 1552441947632.1467,
+      "mtimeMs": 1552441947633.1477,
+      "ctimeMs": 1552441947633.1477,
+      "birthtimeMs": 1552441947632.1467,
+      "atime": "2019-03-13T01:52:27.632Z",
+      "mtime": "2019-03-13T01:52:27.633Z",
+      "ctime": "2019-03-13T01:52:27.633Z",
+      "birthtime": "2019-03-13T01:52:27.632Z"
+    },
+    "d99dfa41-6110-57cc-a2dd-1666b17cb91d": {
+      "id": "d99dfa41-6110-57cc-a2dd-1666b17cb91d",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "7896a2c9ffa193c270b807fd9d3888c7",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src\\images\\svg-icons\\netlify.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons/netlify.svg",
+      "relativePath": "svg-icons/netlify.svg",
+      "extension": "svg",
+      "size": 11364,
+      "prettySize": "11.4 kB",
+      "modifiedTime": "2019-03-13T01:52:27.634Z",
+      "accessTime": "2019-03-13T01:52:27.633Z",
+      "changeTime": "2019-03-13T01:52:27.634Z",
+      "birthTime": "2019-03-13T01:52:27.633Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons",
+      "base": "netlify.svg",
+      "ext": ".svg",
+      "name": "netlify",
+      "relativeDirectory": "svg-icons",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601524,
+      "atimeMs": 1552441947633.1477,
+      "mtimeMs": 1552441947634.1482,
+      "ctimeMs": 1552441947634.1482,
+      "birthtimeMs": 1552441947633.1477,
+      "atime": "2019-03-13T01:52:27.633Z",
+      "mtime": "2019-03-13T01:52:27.634Z",
+      "ctime": "2019-03-13T01:52:27.634Z",
+      "birthtime": "2019-03-13T01:52:27.633Z"
+    },
+    "d5a86d4a-cc96-50b6-bb50-1bb1f42ec193": {
+      "id": "d5a86d4a-cc96-50b6-bb50-1bb1f42ec193",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "fbe47510aadf3c316fc615998bf2b339",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src\\images\\svg-icons\\react.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons/react.svg",
+      "relativePath": "svg-icons/react.svg",
+      "extension": "svg",
+      "size": 4494,
+      "prettySize": "4.49 kB",
+      "modifiedTime": "2019-03-13T01:52:27.634Z",
+      "accessTime": "2019-03-13T01:52:27.634Z",
+      "changeTime": "2019-03-13T01:52:27.634Z",
+      "birthTime": "2019-03-13T01:52:27.634Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons",
+      "base": "react.svg",
+      "ext": ".svg",
+      "name": "react",
+      "relativeDirectory": "svg-icons",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601525,
+      "atimeMs": 1552441947634.1482,
+      "mtimeMs": 1552441947634.1482,
+      "ctimeMs": 1552441947634.1482,
+      "birthtimeMs": 1552441947634.1482,
+      "atime": "2019-03-13T01:52:27.634Z",
+      "mtime": "2019-03-13T01:52:27.634Z",
+      "ctime": "2019-03-13T01:52:27.634Z",
+      "birthtime": "2019-03-13T01:52:27.634Z"
+    },
+    "f23ba277-be35-531d-bcc0-1745830309dd": {
+      "id": "f23ba277-be35-531d-bcc0-1745830309dd",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "fe29b8620e4ad5166d433d3d4e438a75",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src\\images\\svg-icons\\redux.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons/redux.svg",
+      "relativePath": "svg-icons/redux.svg",
+      "extension": "svg",
+      "size": 1151,
+      "prettySize": "1.15 kB",
+      "modifiedTime": "2019-03-13T01:52:27.635Z",
+      "accessTime": "2019-03-13T01:52:27.635Z",
+      "changeTime": "2019-03-13T01:52:27.635Z",
+      "birthTime": "2019-03-13T01:52:27.635Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons",
+      "base": "redux.svg",
+      "ext": ".svg",
+      "name": "redux",
+      "relativeDirectory": "svg-icons",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601526,
+      "atimeMs": 1552441947635.1492,
+      "mtimeMs": 1552441947635.1492,
+      "ctimeMs": 1552441947635.1492,
+      "birthtimeMs": 1552441947635.1492,
+      "atime": "2019-03-13T01:52:27.635Z",
+      "mtime": "2019-03-13T01:52:27.635Z",
+      "ctime": "2019-03-13T01:52:27.635Z",
+      "birthtime": "2019-03-13T01:52:27.635Z"
+    },
+    "b3af0805-4cf6-5a8f-a830-3ea58228d846": {
+      "id": "b3af0805-4cf6-5a8f-a830-3ea58228d846",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "d4a1c424410f2de63aecc6d71ff1815f",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src\\images\\svg-icons\\search-by-algolia.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons/search-by-algolia.svg",
+      "relativePath": "svg-icons/search-by-algolia.svg",
+      "extension": "svg",
+      "size": 4613,
+      "prettySize": "4.61 kB",
+      "modifiedTime": "2019-03-13T01:52:27.636Z",
+      "accessTime": "2019-03-13T01:52:27.635Z",
+      "changeTime": "2019-03-13T01:52:27.636Z",
+      "birthTime": "2019-03-13T01:52:27.635Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons",
+      "base": "search-by-algolia.svg",
+      "ext": ".svg",
+      "name": "search-by-algolia",
+      "relativeDirectory": "svg-icons",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601527,
+      "atimeMs": 1552441947635.1492,
+      "mtimeMs": 1552441947636.1504,
+      "ctimeMs": 1552441947636.1504,
+      "birthtimeMs": 1552441947635.1492,
+      "atime": "2019-03-13T01:52:27.635Z",
+      "mtime": "2019-03-13T01:52:27.636Z",
+      "ctime": "2019-03-13T01:52:27.636Z",
+      "birthtime": "2019-03-13T01:52:27.635Z"
+    },
+    "cdac0a19-1626-5bf9-a422-bfa5dcf93e2d": {
+      "id": "cdac0a19-1626-5bf9-a422-bfa5dcf93e2d",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "c90143d06e4d2e208349667241a45305",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src\\images\\svg-icons\\twitter.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons/twitter.svg",
+      "relativePath": "svg-icons/twitter.svg",
+      "extension": "svg",
+      "size": 531,
+      "prettySize": "531 B",
+      "modifiedTime": "2019-03-13T01:52:27.636Z",
+      "accessTime": "2019-03-13T01:52:27.636Z",
+      "changeTime": "2019-03-13T01:52:27.636Z",
+      "birthTime": "2019-03-13T01:52:27.636Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons",
+      "base": "twitter.svg",
+      "ext": ".svg",
+      "name": "twitter",
+      "relativeDirectory": "svg-icons",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601528,
+      "atimeMs": 1552441947636.1504,
+      "mtimeMs": 1552441947636.1504,
+      "ctimeMs": 1552441947636.1504,
+      "birthtimeMs": 1552441947636.1504,
+      "atime": "2019-03-13T01:52:27.636Z",
+      "mtime": "2019-03-13T01:52:27.636Z",
+      "ctime": "2019-03-13T01:52:27.636Z",
+      "birthtime": "2019-03-13T01:52:27.636Z"
+    },
+    "c9962345-c62e-5953-beaf-f67e4e993e51": {
+      "id": "c9962345-c62e-5953-beaf-f67e4e993e51",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "eced1935fc6901d8aeeea28047db231d",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src\\images\\svg-icons\\webpack.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons/webpack.svg",
+      "relativePath": "svg-icons/webpack.svg",
+      "extension": "svg",
+      "size": 647,
+      "prettySize": "647 B",
+      "modifiedTime": "2019-03-13T01:52:27.636Z",
+      "accessTime": "2019-03-13T01:52:27.636Z",
+      "changeTime": "2019-03-13T01:52:27.636Z",
+      "birthTime": "2019-03-13T01:52:27.636Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/svg-icons",
+      "base": "webpack.svg",
+      "ext": ".svg",
+      "name": "webpack",
+      "relativeDirectory": "svg-icons",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601529,
+      "atimeMs": 1552441947636.1504,
+      "mtimeMs": 1552441947636.1504,
+      "ctimeMs": 1552441947636.1504,
+      "birthtimeMs": 1552441947636.1504,
+      "atime": "2019-03-13T01:52:27.636Z",
+      "mtime": "2019-03-13T01:52:27.636Z",
+      "ctime": "2019-03-13T01:52:27.636Z",
+      "birthtime": "2019-03-13T01:52:27.636Z"
+    },
+    "3ae2da07-1560-5020-97f6-7eb104f9935a": {
+      "id": "3ae2da07-1560-5020-97f6-7eb104f9935a",
+      "children": [
+        "f02aa73e-b605-570f-9621-943eafb05fd6"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "898daff5d2e1e83451aea7c70566aba9",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src\\images\\app-icons\\apple-icon.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/app-icons/apple-icon.png",
+      "relativePath": "app-icons/apple-icon.png",
+      "extension": "png",
+      "size": 75172,
+      "prettySize": "75.2 kB",
+      "modifiedTime": "2019-03-13T01:52:27.619Z",
+      "accessTime": "2019-03-13T01:52:27.618Z",
+      "changeTime": "2019-03-13T01:52:27.619Z",
+      "birthTime": "2019-03-13T01:52:27.618Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/app-icons",
+      "base": "apple-icon.png",
+      "ext": ".png",
+      "name": "apple-icon",
+      "relativeDirectory": "app-icons",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601507,
+      "atimeMs": 1552441947618.1326,
+      "mtimeMs": 1552441947619.1338,
+      "ctimeMs": 1552441947619.1338,
+      "birthtimeMs": 1552441947618.1326,
+      "atime": "2019-03-13T01:52:27.618Z",
+      "mtime": "2019-03-13T01:52:27.619Z",
+      "ctime": "2019-03-13T01:52:27.619Z",
+      "birthtime": "2019-03-13T01:52:27.618Z"
+    },
+    "17107bfc-770f-5534-ac93-27f79c5f08c7": {
+      "id": "17107bfc-770f-5534-ac93-27f79c5f08c7",
+      "children": [
+        "028f4720-80ca-5f30-a47a-3684ab6e2838"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "4ed2f2de20139b192e3abaece92cd11c",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src\\images\\app-icons\\icon.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/app-icons/icon.png",
+      "relativePath": "app-icons/icon.png",
+      "extension": "png",
+      "size": 81580,
+      "prettySize": "81.6 kB",
+      "modifiedTime": "2019-03-13T01:52:27.620Z",
+      "accessTime": "2019-03-13T01:52:27.619Z",
+      "changeTime": "2019-03-13T01:52:27.620Z",
+      "birthTime": "2019-03-13T01:52:27.619Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/app-icons",
+      "base": "icon.png",
+      "ext": ".png",
+      "name": "icon",
+      "relativeDirectory": "app-icons",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601508,
+      "atimeMs": 1552441947619.1338,
+      "mtimeMs": 1552441947620.1348,
+      "ctimeMs": 1552441947620.1348,
+      "birthtimeMs": 1552441947619.1338,
+      "atime": "2019-03-13T01:52:27.619Z",
+      "mtime": "2019-03-13T01:52:27.620Z",
+      "ctime": "2019-03-13T01:52:27.620Z",
+      "birthtime": "2019-03-13T01:52:27.619Z"
+    },
+    "7e680bc4-c4c9-5b40-ada2-8edc96e7f592": {
+      "id": "7e680bc4-c4c9-5b40-ada2-8edc96e7f592",
+      "children": [
+        "3404738b-b604-5eb4-b13c-9389397ab2c7"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "d3d38edbdfb6b5c82be422b7eac174d2",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src\\images\\jpg\\avatar.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/jpg/avatar.jpg",
+      "relativePath": "jpg/avatar.jpg",
+      "extension": "jpg",
+      "size": 107754,
+      "prettySize": "108 kB",
+      "modifiedTime": "2019-03-13T02:22:13.312Z",
+      "accessTime": "2019-03-13T02:22:00.477Z",
+      "changeTime": "2019-03-13T02:22:13.312Z",
+      "birthTime": "2019-03-13T01:52:27.621Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/jpg",
+      "base": "avatar.jpg",
+      "ext": ".jpg",
+      "name": "avatar",
+      "relativeDirectory": "jpg",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 129759964263614780,
+      "atimeMs": 1552443720477,
+      "mtimeMs": 1552443733312,
+      "ctimeMs": 1552443733312.4375,
+      "birthtimeMs": 1552441947621.1357,
+      "atime": "2019-03-13T02:22:00.477Z",
+      "mtime": "2019-03-13T02:22:13.312Z",
+      "ctime": "2019-03-13T02:22:13.312Z",
+      "birthtime": "2019-03-13T01:52:27.621Z"
+    },
+    "44e2fa38-b60d-54bb-8e76-d36eb4d211f3": {
+      "id": "44e2fa38-b60d-54bb-8e76-d36eb4d211f3",
+      "children": [],
+      "parent": "82f496b7-645f-5ac0-afd0-6951568f6565",
+      "internal": {
+        "contentDigest": "3b8a9f6e34ea429bb1df5eefc564a27b",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "f02aa73e-b605-570f-9621-943eafb05fd6": {
+      "id": "f02aa73e-b605-570f-9621-943eafb05fd6",
+      "children": [],
+      "parent": "3ae2da07-1560-5020-97f6-7eb104f9935a",
+      "internal": {
+        "contentDigest": "898daff5d2e1e83451aea7c70566aba9",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "028f4720-80ca-5f30-a47a-3684ab6e2838": {
+      "id": "028f4720-80ca-5f30-a47a-3684ab6e2838",
+      "children": [],
+      "parent": "17107bfc-770f-5534-ac93-27f79c5f08c7",
+      "internal": {
+        "contentDigest": "4ed2f2de20139b192e3abaece92cd11c",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "3404738b-b604-5eb4-b13c-9389397ab2c7": {
+      "id": "3404738b-b604-5eb4-b13c-9389397ab2c7",
+      "children": [],
+      "parent": "7e680bc4-c4c9-5b40-ada2-8edc96e7f592",
+      "internal": {
+        "contentDigest": "d3d38edbdfb6b5c82be422b7eac174d2",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "28d90eee-02f5-5d4e-9407-c17cac8c4419": {
+      "id": "28d90eee-02f5-5d4e-9407-c17cac8c4419",
+      "children": [
+        "9ea45502-6532-56c1-9b7f-f670d487490a"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "9776b7ad0606e1257d99b5f68f0bf6dc",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src\\images\\png\\hero-back2ground.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/png/hero-back2ground.png",
+      "relativePath": "png/hero-back2ground.png",
+      "extension": "png",
+      "size": 404065,
+      "prettySize": "404 kB",
+      "modifiedTime": "2019-03-13T02:17:00.303Z",
+      "accessTime": "2019-03-13T01:52:27.624Z",
+      "changeTime": "2019-03-13T02:17:00.302Z",
+      "birthTime": "2019-03-13T01:52:27.624Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/png",
+      "base": "hero-back2ground.png",
+      "ext": ".png",
+      "name": "hero-back2ground",
+      "relativeDirectory": "png",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601512,
+      "atimeMs": 1552441947624,
+      "mtimeMs": 1552443420303,
+      "ctimeMs": 1552443420301.6936,
+      "birthtimeMs": 1552441947624.1384,
+      "atime": "2019-03-13T01:52:27.624Z",
+      "mtime": "2019-03-13T02:17:00.303Z",
+      "ctime": "2019-03-13T02:17:00.302Z",
+      "birthtime": "2019-03-13T01:52:27.624Z"
+    },
+    "9ea45502-6532-56c1-9b7f-f670d487490a": {
+      "id": "9ea45502-6532-56c1-9b7f-f670d487490a",
+      "children": [],
+      "parent": "28d90eee-02f5-5d4e-9407-c17cac8c4419",
+      "internal": {
+        "contentDigest": "9776b7ad0606e1257d99b5f68f0bf6dc",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "5a3c6012-6d81-506e-b24c-2282a0952e43": {
+      "id": "5a3c6012-6d81-506e-b24c-2282a0952e43",
+      "children": [
+        "158554bb-e990-5cea-8d17-05eacf3e477d"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "fd5838c046b825a0beef03c2a05a805a",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src\\images\\png\\hero-background.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/png/hero-background.png",
+      "relativePath": "png/hero-background.png",
+      "extension": "png",
+      "size": 1144589,
+      "prettySize": "1.14 MB",
+      "modifiedTime": "2019-03-13T02:17:04.081Z",
+      "accessTime": "2019-03-13T02:16:48.568Z",
+      "changeTime": "2019-03-13T02:17:04.080Z",
+      "birthTime": "2019-03-13T01:52:27.624Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/images/png",
+      "base": "hero-background.png",
+      "ext": ".png",
+      "name": "hero-background",
+      "relativeDirectory": "png",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 2814749767975947,
+      "atimeMs": 1552443408568,
+      "mtimeMs": 1552443424081,
+      "ctimeMs": 1552443424080.3203,
+      "birthtimeMs": 1552441947624.1384,
+      "atime": "2019-03-13T02:16:48.568Z",
+      "mtime": "2019-03-13T02:17:04.081Z",
+      "ctime": "2019-03-13T02:17:04.080Z",
+      "birthtime": "2019-03-13T01:52:27.624Z"
+    },
+    "158554bb-e990-5cea-8d17-05eacf3e477d": {
+      "id": "158554bb-e990-5cea-8d17-05eacf3e477d",
+      "children": [],
+      "parent": "5a3c6012-6d81-506e-b24c-2282a0952e43",
+      "internal": {
+        "contentDigest": "fd5838c046b825a0beef03c2a05a805a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "e4328904-9887-5242-b615-6a81163d95c0": {
+      "id": "e4328904-9887-5242-b615-6a81163d95c0",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "45077a21ed0a732eff6b52562dfab6bd",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/posts/",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-03-13T02:12:21.487Z",
+      "accessTime": "2019-03-13T02:12:21.487Z",
+      "changeTime": "2019-03-13T02:12:21.487Z",
+      "birthTime": "2019-03-13T01:52:27.545Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content",
+      "base": "posts",
+      "ext": "",
+      "name": "posts",
+      "relativeDirectory": "..",
+      "dev": 575576239,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601403,
+      "atimeMs": 1552443141486.545,
+      "mtimeMs": 1552443141486.545,
+      "ctimeMs": 1552443141486.545,
+      "birthtimeMs": 1552441947545.0625,
+      "atime": "2019-03-13T02:12:21.487Z",
+      "mtime": "2019-03-13T02:12:21.487Z",
+      "ctime": "2019-03-13T02:12:21.487Z",
+      "birthtime": "2019-03-13T01:52:27.545Z"
+    },
+    "1a49775f-6570-599f-abca-b816c7eba2d2": {
+      "id": "1a49775f-6570-599f-abca-b816c7eba2d2",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "fa8fdf2efea66d37ec24383701cc9e54",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\2017-10-03--be-who-you-are\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/posts/2017-10-03--be-who-you-are",
+      "relativePath": "2017-10-03--be-who-you-are",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-03-13T02:51:39.127Z",
+      "accessTime": "2019-03-13T02:51:39.127Z",
+      "changeTime": "2019-03-13T02:51:39.127Z",
+      "birthTime": "2019-03-13T01:52:27.548Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/posts",
+      "base": "2017-10-03--be-who-you-are",
+      "ext": "",
+      "name": "2017-10-03--be-who-you-are",
+      "relativeDirectory": "",
+      "dev": 575576239,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601407,
+      "atimeMs": 1552445499127.0134,
+      "mtimeMs": 1552445499127.0134,
+      "ctimeMs": 1552445499127.0134,
+      "birthtimeMs": 1552441947548.0664,
+      "atime": "2019-03-13T02:51:39.127Z",
+      "mtime": "2019-03-13T02:51:39.127Z",
+      "ctime": "2019-03-13T02:51:39.127Z",
+      "birthtime": "2019-03-13T01:52:27.548Z"
+    },
+    "42235342-a95d-56f3-ab00-bf22a601b5b9": {
+      "id": "42235342-a95d-56f3-ab00-bf22a601b5b9",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "af573727afd58ae987e67edd71e3ed44",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\draft-post\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/posts/draft-post",
+      "relativePath": "draft-post",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-03-13T01:52:27.581Z",
+      "accessTime": "2019-03-13T01:52:27.581Z",
+      "changeTime": "2019-03-13T01:52:27.581Z",
+      "birthTime": "2019-03-13T01:52:27.579Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/posts",
+      "base": "draft-post",
+      "ext": "",
+      "name": "draft-post",
+      "relativeDirectory": "",
+      "dev": 575576239,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601438,
+      "atimeMs": 1552441947581.0974,
+      "mtimeMs": 1552441947581.0974,
+      "ctimeMs": 1552441947581.0974,
+      "birthtimeMs": 1552441947579.0952,
+      "atime": "2019-03-13T01:52:27.581Z",
+      "mtime": "2019-03-13T01:52:27.581Z",
+      "ctime": "2019-03-13T01:52:27.581Z",
+      "birthtime": "2019-03-13T01:52:27.579Z"
+    },
+    "e7a36051-d416-5cc6-a4ea-e637ddaace39": {
+      "id": "e7a36051-d416-5cc6-a4ea-e637ddaace39",
+      "children": [
+        "bd89f02f-e545-5869-ad43-77b56a6dcdf7"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "e819313bc43f10b3c87f37fbc5333715",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\2017-10-03--be-who-you-are\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/posts/2017-10-03--be-who-you-are/index.md",
+      "relativePath": "2017-10-03--be-who-you-are/index.md",
+      "extension": "md",
+      "size": 599,
+      "prettySize": "599 B",
+      "modifiedTime": "2019-03-13T02:56:50.842Z",
+      "accessTime": "2019-03-13T01:52:27.548Z",
+      "changeTime": "2019-03-13T02:56:50.842Z",
+      "birthTime": "2019-03-13T01:52:27.548Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/posts/2017-10-03--be-who-you-are",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-10-03--be-who-you-are",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601408,
+      "atimeMs": 1552441947548.0664,
+      "mtimeMs": 1552445810841.8828,
+      "ctimeMs": 1552445810841.8828,
+      "birthtimeMs": 1552441947548.0664,
+      "atime": "2019-03-13T01:52:27.548Z",
+      "mtime": "2019-03-13T02:56:50.842Z",
+      "ctime": "2019-03-13T02:56:50.842Z",
+      "birthtime": "2019-03-13T01:52:27.548Z"
+    },
+    "1c511fb1-97b2-5f55-ba35-07176829189a": {
+      "id": "1c511fb1-97b2-5f55-ba35-07176829189a",
+      "children": [
+        "edde6a72-ccfb-513e-9a1c-821413a5fae4"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "114a7108ab96ab27cbbbfe389450213d",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\draft-post\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/posts/draft-post/index.md",
+      "relativePath": "draft-post/index.md",
+      "extension": "md",
+      "size": 2437,
+      "prettySize": "2.44 kB",
+      "modifiedTime": "2019-03-13T02:28:11.510Z",
+      "accessTime": "2019-03-13T01:52:27.579Z",
+      "changeTime": "2019-03-13T02:28:11.510Z",
+      "birthTime": "2019-03-13T01:52:27.579Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/posts/draft-post",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "draft-post",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601439,
+      "atimeMs": 1552441947579.0952,
+      "mtimeMs": 1552444091509.8079,
+      "ctimeMs": 1552444091509.8079,
+      "birthtimeMs": 1552441947579.0952,
+      "atime": "2019-03-13T01:52:27.579Z",
+      "mtime": "2019-03-13T02:28:11.510Z",
+      "ctime": "2019-03-13T02:28:11.510Z",
+      "birthtime": "2019-03-13T01:52:27.579Z"
+    },
+    "3c7b6a99-77c6-558e-a646-8b4f68d61dba": {
+      "id": "3c7b6a99-77c6-558e-a646-8b4f68d61dba",
+      "children": [
+        "22065282-25c8-53d9-afd9-421b8c46bdbd"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "2746d2ce98f9ca2322a6e105a2e04348",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\2017-10-03--be-who-you-are\\photo-1489824904134-891ab64532f1.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/posts/2017-10-03--be-who-you-are/photo-1489824904134-891ab64532f1.jpg",
+      "relativePath": "2017-10-03--be-who-you-are/photo-1489824904134-891ab64532f1.jpg",
+      "extension": "jpg",
+      "size": 175608,
+      "prettySize": "176 kB",
+      "modifiedTime": "2019-03-13T01:52:27.550Z",
+      "accessTime": "2019-03-13T01:52:27.549Z",
+      "changeTime": "2019-03-13T02:12:21.489Z",
+      "birthTime": "2019-03-13T01:52:27.549Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/posts/2017-10-03--be-who-you-are",
+      "base": "photo-1489824904134-891ab64532f1.jpg",
+      "ext": ".jpg",
+      "name": "photo-1489824904134-891ab64532f1",
+      "relativeDirectory": "2017-10-03--be-who-you-are",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601409,
+      "atimeMs": 1552441947549.0667,
+      "mtimeMs": 1552441947550.0676,
+      "ctimeMs": 1552443141488.547,
+      "birthtimeMs": 1552441947549.0667,
+      "atime": "2019-03-13T01:52:27.549Z",
+      "mtime": "2019-03-13T01:52:27.550Z",
+      "ctime": "2019-03-13T02:12:21.489Z",
+      "birthtime": "2019-03-13T01:52:27.549Z"
+    },
+    "22065282-25c8-53d9-afd9-421b8c46bdbd": {
+      "id": "22065282-25c8-53d9-afd9-421b8c46bdbd",
+      "children": [],
+      "parent": "3c7b6a99-77c6-558e-a646-8b4f68d61dba",
+      "internal": {
+        "contentDigest": "2746d2ce98f9ca2322a6e105a2e04348",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "bd89f02f-e545-5869-ad43-77b56a6dcdf7": {
+      "id": "bd89f02f-e545-5869-ad43-77b56a6dcdf7",
+      "children": [],
+      "parent": "e7a36051-d416-5cc6-a4ea-e637ddaace39",
+      "internal": {
+        "content": "\r\nI am really proud to announce, that I had succesfully launched a blog.\r\n\r\n## What will you write about?\r\n\r\nTopic will vary. Sometimes about politics, sometimes I will make programming guides. \r\n\r\n###  Who are you?\r\n\r\nI am currently studying IT at the university in Szczecin and work as Software Developer in Szczecin and a hostess in Lubieszyn.\r\nI am interested about anything really. So the content will vary. Also language will be mixed, as I am more comfortable in Polish.",
+        "type": "MarkdownRemark",
+        "contentDigest": "12029f1698b56c2fcec9193f49566104",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin",
+          "source": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "The official start of the blog!",
+        "category": "Website",
+        "cover": "new-beginning.jpg",
+        "author": "Adam Perliński"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\nI am really proud to announce, that I had succesfully launched a blog.\r\n\r\n## What will you write about?\r\n\r\nTopic will vary. Sometimes about politics, sometimes I will make programming guides. \r\n\r\n###  Who are you?\r\n\r\nI am currently studying IT at the university in Szczecin and work as Software Developer in Szczecin and a hostess in Lubieszyn.\r\nI am interested about anything really. So the content will vary. Also language will be mixed, as I am more comfortable in Polish.",
+      "fileAbsolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/posts/2017-10-03--be-who-you-are/index.md",
+      "fields": {
+        "slug": "/be-who-you-are/",
+        "prefix": "2017-10-03",
+        "source": "posts"
+      }
+    },
+    "edde6a72-ccfb-513e-9a1c-821413a5fae4": {
+      "id": "edde6a72-ccfb-513e-9a1c-821413a5fae4",
+      "children": [],
+      "parent": "1c511fb1-97b2-5f55-ba35-07176829189a",
+      "internal": {
+        "content": "\r\nProin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:\r\n\r\nPellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.\r\n\r\nFusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.\r\n\r\n> Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.\r\n\r\nNullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.\r\n\r\n### Cras semper consectetur elementum\r\n\r\nPellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.\r\n\r\n![unsplash.com](./photo-1490474418585-ba9bad8fd0ea.jpg)\r\n\r\nProin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "7595e47f325aaccf2d6f2fe810378e37",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin",
+          "source": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "This is a draft post",
+        "category": "sayings",
+        "cover": "photo-1490474418585-ba9bad8fd0ea.jpg",
+        "author": "Adam Perliński"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\nProin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:\r\n\r\nPellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.\r\n\r\nFusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.\r\n\r\n> Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.\r\n\r\nNullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.\r\n\r\n### Cras semper consectetur elementum\r\n\r\nPellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.\r\n\r\n![unsplash.com](./photo-1490474418585-ba9bad8fd0ea.jpg)\r\n\r\nProin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.\r\n",
+      "fileAbsolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/posts/draft-post/index.md",
+      "fields": {
+        "slug": "/draft-post/",
+        "prefix": "",
+        "source": "posts"
+      }
+    },
+    "084cb126-7fd0-56aa-a300-34d2fc25958f": {
+      "id": "084cb126-7fd0-56aa-a300-34d2fc25958f",
+      "children": [
+        "a0394e10-7b1a-5046-8f63-b80a54b150fe"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "69657d5d9f9e2a2aa0aa1c3e268ce4a1",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\draft-post\\photo-1490474418585-ba9bad8fd0ea.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/posts/draft-post/photo-1490474418585-ba9bad8fd0ea.jpg",
+      "relativePath": "draft-post/photo-1490474418585-ba9bad8fd0ea.jpg",
+      "extension": "jpg",
+      "size": 347575,
+      "prettySize": "348 kB",
+      "modifiedTime": "2019-03-13T01:52:27.582Z",
+      "accessTime": "2019-03-13T01:52:27.581Z",
+      "changeTime": "2019-03-13T01:52:27.582Z",
+      "birthTime": "2019-03-13T01:52:27.581Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/posts/draft-post",
+      "base": "photo-1490474418585-ba9bad8fd0ea.jpg",
+      "ext": ".jpg",
+      "name": "photo-1490474418585-ba9bad8fd0ea",
+      "relativeDirectory": "draft-post",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601440,
+      "atimeMs": 1552441947581.0974,
+      "mtimeMs": 1552441947582.0986,
+      "ctimeMs": 1552441947582.0986,
+      "birthtimeMs": 1552441947581.0974,
+      "atime": "2019-03-13T01:52:27.581Z",
+      "mtime": "2019-03-13T01:52:27.582Z",
+      "ctime": "2019-03-13T01:52:27.582Z",
+      "birthtime": "2019-03-13T01:52:27.581Z"
+    },
+    "a0394e10-7b1a-5046-8f63-b80a54b150fe": {
+      "id": "a0394e10-7b1a-5046-8f63-b80a54b150fe",
+      "children": [],
+      "parent": "084cb126-7fd0-56aa-a300-34d2fc25958f",
+      "internal": {
+        "contentDigest": "69657d5d9f9e2a2aa0aa1c3e268ce4a1",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "fa2b7243-6702-572e-8e7a-eef5d6878641": {
+      "id": "fa2b7243-6702-572e-8e7a-eef5d6878641",
+      "children": [
+        "d7496781-378c-5f2d-93b3-3f84586a4099"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "7c6957e3ce332efad43d1d0bc55197a6",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\2017-10-03--be-who-you-are\\new-beginning.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/posts/2017-10-03--be-who-you-are/new-beginning.jpg",
+      "relativePath": "2017-10-03--be-who-you-are/new-beginning.jpg",
+      "extension": "jpg",
+      "size": 3054111,
+      "prettySize": "3.05 MB",
+      "modifiedTime": "2019-03-13T02:51:39.159Z",
+      "accessTime": "2019-03-13T02:51:39.126Z",
+      "changeTime": "2019-03-13T02:51:39.159Z",
+      "birthTime": "2019-03-13T02:51:39.126Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/posts/2017-10-03--be-who-you-are",
+      "base": "new-beginning.jpg",
+      "ext": ".jpg",
+      "name": "new-beginning",
+      "relativeDirectory": "2017-10-03--be-who-you-are",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 146648462866315680,
+      "atimeMs": 1552445499126.015,
+      "mtimeMs": 1552445499159.0442,
+      "ctimeMs": 1552445499159.0442,
+      "birthtimeMs": 1552445499126.015,
+      "atime": "2019-03-13T02:51:39.126Z",
+      "mtime": "2019-03-13T02:51:39.159Z",
+      "ctime": "2019-03-13T02:51:39.159Z",
+      "birthtime": "2019-03-13T02:51:39.126Z"
+    },
+    "d7496781-378c-5f2d-93b3-3f84586a4099": {
+      "id": "d7496781-378c-5f2d-93b3-3f84586a4099",
+      "children": [],
+      "parent": "fa2b7243-6702-572e-8e7a-eef5d6878641",
+      "internal": {
+        "contentDigest": "7c6957e3ce332efad43d1d0bc55197a6",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "f989c748-6960-5a17-9dea-eb85d5dd2bae": {
+      "id": "f989c748-6960-5a17-9dea-eb85d5dd2bae",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "82b76c2215190c64a2235229cd9db9c5",
+        "type": "Directory",
+        "description": "Directory \"content\\pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/pages/",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-03-13T02:14:30.585Z",
+      "accessTime": "2019-03-13T02:14:30.585Z",
+      "changeTime": "2019-03-13T02:14:30.585Z",
+      "birthTime": "2019-03-13T01:52:27.530Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 575576239,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601385,
+      "atimeMs": 1552443270584.9253,
+      "mtimeMs": 1552443270584.9253,
+      "ctimeMs": 1552443270584.9253,
+      "birthtimeMs": 1552441947530.0496,
+      "atime": "2019-03-13T02:14:30.585Z",
+      "mtime": "2019-03-13T02:14:30.585Z",
+      "ctime": "2019-03-13T02:14:30.585Z",
+      "birthtime": "2019-03-13T01:52:27.530Z"
+    },
+    "71483a5f-dc32-5d04-9d6b-26ee9bc48d83": {
+      "id": "71483a5f-dc32-5d04-9d6b-26ee9bc48d83",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "b3aa678c89b50e6614b44da3d0476168",
+        "type": "Directory",
+        "description": "Directory \"content\\pages\\1--about\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/pages/1--about",
+      "relativePath": "1--about",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-03-13T01:52:27.530Z",
+      "accessTime": "2019-03-13T01:52:27.530Z",
+      "changeTime": "2019-03-13T01:52:27.530Z",
+      "birthTime": "2019-03-13T01:52:27.530Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/pages",
+      "base": "1--about",
+      "ext": "",
+      "name": "1--about",
+      "relativeDirectory": "",
+      "dev": 575576239,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601386,
+      "atimeMs": 1552441947530.0496,
+      "mtimeMs": 1552441947530.0496,
+      "ctimeMs": 1552441947530.0496,
+      "birthtimeMs": 1552441947530.0496,
+      "atime": "2019-03-13T01:52:27.530Z",
+      "mtime": "2019-03-13T01:52:27.530Z",
+      "ctime": "2019-03-13T01:52:27.530Z",
+      "birthtime": "2019-03-13T01:52:27.530Z"
+    },
+    "d643e169-3b51-53d6-badd-d37be47d2696": {
+      "id": "d643e169-3b51-53d6-badd-d37be47d2696",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "54884a928c429b6e706b47702cebe5e5",
+        "type": "Directory",
+        "description": "Directory \"content\\pages\\success\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/pages/success",
+      "relativePath": "success",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-03-13T01:52:27.543Z",
+      "accessTime": "2019-03-13T01:52:27.543Z",
+      "changeTime": "2019-03-13T01:52:27.543Z",
+      "birthTime": "2019-03-13T01:52:27.543Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/pages",
+      "base": "success",
+      "ext": "",
+      "name": "success",
+      "relativeDirectory": "",
+      "dev": 575576239,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601398,
+      "atimeMs": 1552441947543.061,
+      "mtimeMs": 1552441947543.061,
+      "ctimeMs": 1552441947543.061,
+      "birthtimeMs": 1552441947543.061,
+      "atime": "2019-03-13T01:52:27.543Z",
+      "mtime": "2019-03-13T01:52:27.543Z",
+      "ctime": "2019-03-13T01:52:27.543Z",
+      "birthtime": "2019-03-13T01:52:27.543Z"
+    },
+    "32720779-98c5-54b0-9710-8a9e6d2f51d5": {
+      "id": "32720779-98c5-54b0-9710-8a9e6d2f51d5",
+      "children": [
+        "5c145f18-dec9-571e-8b5e-65b604c069e4"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "f93f7e561dd18851bdd4040cac99a906",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\pages\\1--about\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/pages/1--about/index.md",
+      "relativePath": "1--about/index.md",
+      "extension": "md",
+      "size": 32,
+      "prettySize": "32 B",
+      "modifiedTime": "2019-03-13T02:45:07.379Z",
+      "accessTime": "2019-03-13T01:52:27.530Z",
+      "changeTime": "2019-03-13T02:45:07.379Z",
+      "birthTime": "2019-03-13T01:52:27.530Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/pages/1--about",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "1--about",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601387,
+      "atimeMs": 1552441947530.0496,
+      "mtimeMs": 1552445107379.359,
+      "ctimeMs": 1552445107379.359,
+      "birthtimeMs": 1552441947530.0496,
+      "atime": "2019-03-13T01:52:27.530Z",
+      "mtime": "2019-03-13T02:45:07.379Z",
+      "ctime": "2019-03-13T02:45:07.379Z",
+      "birthtime": "2019-03-13T01:52:27.530Z"
+    },
+    "fd541d53-08ff-5887-a334-9ce3ec7a8f1e": {
+      "id": "fd541d53-08ff-5887-a334-9ce3ec7a8f1e",
+      "children": [
+        "4123db47-50f1-5571-8783-0431adc87a07"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "e07d413040a2e77cde04cf714c0331a5",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\pages\\success\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/pages/success/index.md",
+      "relativePath": "success/index.md",
+      "extension": "md",
+      "size": 99,
+      "prettySize": "99 B",
+      "modifiedTime": "2019-03-13T01:52:27.543Z",
+      "accessTime": "2019-03-13T01:52:27.543Z",
+      "changeTime": "2019-03-13T01:52:27.543Z",
+      "birthTime": "2019-03-13T01:52:27.543Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/pages/success",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "success",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601399,
+      "atimeMs": 1552441947543.061,
+      "mtimeMs": 1552441947543.061,
+      "ctimeMs": 1552441947543.061,
+      "birthtimeMs": 1552441947543.061,
+      "atime": "2019-03-13T01:52:27.543Z",
+      "mtime": "2019-03-13T01:52:27.543Z",
+      "ctime": "2019-03-13T01:52:27.543Z",
+      "birthtime": "2019-03-13T01:52:27.543Z"
+    },
+    "5c145f18-dec9-571e-8b5e-65b604c069e4": {
+      "id": "5c145f18-dec9-571e-8b5e-65b604c069e4",
+      "children": [],
+      "parent": "32720779-98c5-54b0-9710-8a9e6d2f51d5",
+      "internal": {
+        "content": "\r\n\r\n\r\n\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "3161f7551ebee96ea0e96dd666e8e88d",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin",
+          "source": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n\r\n\r\n\r\n",
+      "fileAbsolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/pages/1--about/index.md",
+      "fields": {
+        "slug": "/about/",
+        "prefix": "1",
+        "source": "pages"
+      }
+    },
+    "4123db47-50f1-5571-8783-0431adc87a07": {
+      "id": "4123db47-50f1-5571-8783-0431adc87a07",
+      "children": [],
+      "parent": "fd541d53-08ff-5887-a334-9ce3ec7a8f1e",
+      "internal": {
+        "content": "\r\nThank you. <br />\r\nI will answer to your message as soon as possible.\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "7d27fbd8b46be6bb29f0ecebff9afe62",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin",
+          "source": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Success"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\nThank you. <br />\r\nI will answer to your message as soon as possible.\r\n",
+      "fileAbsolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/pages/success/index.md",
+      "fields": {
+        "slug": "/success/",
+        "prefix": "",
+        "source": "pages"
+      }
+    },
+    "304469d5-e744-5513-9e6e-95dd9d5f515b": {
+      "id": "304469d5-e744-5513-9e6e-95dd9d5f515b",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "277384ef78a7aa6d3dcd3ced6a9367bf",
+        "type": "Directory",
+        "description": "Directory \"content\\parts\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "parts",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/parts/",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-03-13T01:52:27.544Z",
+      "accessTime": "2019-03-13T01:52:27.544Z",
+      "changeTime": "2019-03-13T01:52:27.544Z",
+      "birthTime": "2019-03-13T01:52:27.543Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content",
+      "base": "parts",
+      "ext": "",
+      "name": "parts",
+      "relativeDirectory": "..",
+      "dev": 575576239,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601400,
+      "atimeMs": 1552441947544.0615,
+      "mtimeMs": 1552441947544.0615,
+      "ctimeMs": 1552441947544.0615,
+      "birthtimeMs": 1552441947543.061,
+      "atime": "2019-03-13T01:52:27.544Z",
+      "mtime": "2019-03-13T01:52:27.544Z",
+      "ctime": "2019-03-13T01:52:27.544Z",
+      "birthtime": "2019-03-13T01:52:27.543Z"
+    },
+    "fb53c3b9-cd55-5211-b4b0-d6d8b1146205": {
+      "id": "fb53c3b9-cd55-5211-b4b0-d6d8b1146205",
+      "children": [
+        "fb179d01-4ff0-5b11-bded-2ab6874f0dcd"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "c6acdc61a56c9dd1d8b03a611999ea7d",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\parts\\author.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "parts",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/parts/author.md",
+      "relativePath": "author.md",
+      "extension": "md",
+      "size": 144,
+      "prettySize": "144 B",
+      "modifiedTime": "2019-03-13T02:08:39.749Z",
+      "accessTime": "2019-03-13T01:52:27.543Z",
+      "changeTime": "2019-03-13T02:08:39.749Z",
+      "birthTime": "2019-03-13T01:52:27.543Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/parts",
+      "base": "author.md",
+      "ext": ".md",
+      "name": "author",
+      "relativeDirectory": "",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601401,
+      "atimeMs": 1552441947543.061,
+      "mtimeMs": 1552442919748.9075,
+      "ctimeMs": 1552442919748.9075,
+      "birthtimeMs": 1552441947543.061,
+      "atime": "2019-03-13T01:52:27.543Z",
+      "mtime": "2019-03-13T02:08:39.749Z",
+      "ctime": "2019-03-13T02:08:39.749Z",
+      "birthtime": "2019-03-13T01:52:27.543Z"
+    },
+    "81a51997-34b3-5127-8b69-73e27c6acb36": {
+      "id": "81a51997-34b3-5127-8b69-73e27c6acb36",
+      "children": [
+        "91ff0f65-a96c-56d5-a1a1-345f66a99999"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "adb5827568d6e1afef46d17b28c2a097",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\parts\\footnote.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "parts",
+      "absolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/parts/footnote.md",
+      "relativePath": "footnote.md",
+      "extension": "md",
+      "size": 73,
+      "prettySize": "73 B",
+      "modifiedTime": "2019-03-13T02:09:28.324Z",
+      "accessTime": "2019-03-13T01:52:27.544Z",
+      "changeTime": "2019-03-13T02:09:28.324Z",
+      "birthTime": "2019-03-13T01:52:27.544Z",
+      "root": "C:/",
+      "dir": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/parts",
+      "base": "footnote.md",
+      "ext": ".md",
+      "name": "footnote",
+      "relativeDirectory": "",
+      "dev": 575576239,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907601402,
+      "atimeMs": 1552441947544.0615,
+      "mtimeMs": 1552442968324.299,
+      "ctimeMs": 1552442968324.299,
+      "birthtimeMs": 1552441947544.0615,
+      "atime": "2019-03-13T01:52:27.544Z",
+      "mtime": "2019-03-13T02:09:28.324Z",
+      "ctime": "2019-03-13T02:09:28.324Z",
+      "birthtime": "2019-03-13T01:52:27.544Z"
+    },
+    "fb179d01-4ff0-5b11-bded-2ab6874f0dcd": {
+      "id": "fb179d01-4ff0-5b11-bded-2ab6874f0dcd",
+      "children": [],
+      "parent": "fb53c3b9-cd55-5211-b4b0-d6d8b1146205",
+      "internal": {
+        "content": "\r\n**Adam Perliński**: A bit of sarcasm mixed with unique look at world is what makes him such a interesting person. \r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "4e2b8c197c0f2fe74ad8e8622922147f",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "prefix": "default-site-plugin",
+          "source": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "author"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n**Adam Perliński**: A bit of sarcasm mixed with unique look at world is what makes him such a interesting person. \r\n",
+      "fileAbsolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/parts/author.md",
+      "fields": {
+        "prefix": "",
+        "source": "parts"
+      }
+    },
+    "91ff0f65-a96c-56d5-a1a1-345f66a99999": {
+      "id": "91ff0f65-a96c-56d5-a1a1-345f66a99999",
+      "children": [],
+      "parent": "81a51997-34b3-5127-8b69-73e27c6acb36",
+      "internal": {
+        "content": "\r\n* It is Adam Perliński's personal blog.\r\n\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "dc30a0170a72c38c1e53c9280f405a2b",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "prefix": "default-site-plugin",
+          "source": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "footnote"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n* It is Adam Perliński's personal blog.\r\n\r\n",
+      "fileAbsolutePath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/content/parts/footnote.md",
+      "fields": {
+        "prefix": "",
+        "source": "parts"
+      }
+    },
+    "SitePage /category/website/": {
+      "jsonName": "category-website-c73",
+      "internalComponentName": "ComponentCategoryWebsite",
+      "path": "/category/website/",
+      "component": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/templates/CategoryTemplate.js",
+      "componentChunkName": "component---src-templates-category-template-js",
+      "context": {
+        "category": "Website"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/templates/CategoryTemplate.js",
+      "id": "SitePage /category/website/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0c4ff780144e10fdfd919a7dd3641eca",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /category/sayings/": {
+      "jsonName": "category-sayings-2fb",
+      "internalComponentName": "ComponentCategorySayings",
+      "path": "/category/sayings/",
+      "component": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/templates/CategoryTemplate.js",
+      "componentChunkName": "component---src-templates-category-template-js",
+      "context": {
+        "category": "sayings"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/templates/CategoryTemplate.js",
+      "id": "SitePage /category/sayings/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ca552c9064b5462afa16027b70667af0",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /be-who-you-are/": {
+      "jsonName": "be-who-you-are-944",
+      "internalComponentName": "ComponentBeWhoYouAre",
+      "path": "/be-who-you-are/",
+      "component": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/templates/PostTemplate.js",
+      "componentChunkName": "component---src-templates-post-template-js",
+      "context": {
+        "slug": "/be-who-you-are/",
+        "prev": {
+          "id": "edde6a72-ccfb-513e-9a1c-821413a5fae4",
+          "fields": {
+            "slug": "/draft-post/",
+            "prefix": null,
+            "source": "posts"
+          },
+          "frontmatter": {
+            "title": "This is a draft post",
+            "category": "sayings"
+          }
+        },
+        "source": "posts"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/templates/PostTemplate.js",
+      "id": "SitePage /be-who-you-are/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c84c933d0ecfbd67f5a258a6a97e2677",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /draft-post/": {
+      "jsonName": "draft-post-a23",
+      "internalComponentName": "ComponentDraftPost",
+      "path": "/draft-post/",
+      "component": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/templates/PostTemplate.js",
+      "componentChunkName": "component---src-templates-post-template-js",
+      "context": {
+        "slug": "/draft-post/",
+        "next": {
+          "id": "bd89f02f-e545-5869-ad43-77b56a6dcdf7",
+          "fields": {
+            "slug": "/be-who-you-are/",
+            "prefix": "2017-10-03",
+            "source": "posts"
+          },
+          "frontmatter": {
+            "title": "The official start of the blog!",
+            "category": "Website"
+          }
+        },
+        "source": "posts"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/templates/PostTemplate.js",
+      "id": "SitePage /draft-post/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e07797a9a63d6ba202469b2d18f1a96b",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/templates/PageTemplate.js",
+      "componentChunkName": "component---src-templates-page-template-js",
+      "context": {
+        "slug": "/about/",
+        "source": "pages"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/templates/PageTemplate.js",
+      "id": "SitePage /about/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3494f135ed22c2fc43083bce1bd0df65",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /success/": {
+      "jsonName": "success-ca5",
+      "internalComponentName": "ComponentSuccess",
+      "path": "/success/",
+      "component": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/templates/PageTemplate.js",
+      "componentChunkName": "component---src-templates-page-template-js",
+      "context": {
+        "slug": "/success/",
+        "source": "pages"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/templates/PageTemplate.js",
+      "id": "SitePage /success/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "29616da381156add4da668b9e34ff047",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "e9b4751c-2389-584a-b230-93ef1050d581",
+      "pluginCreatorId": "e9b4751c-2389-584a-b230-93ef1050d581",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "52e17427c3bfe42927026d81bb7167ed",
+        "description": "e9b4751c-2389-584a-b230-93ef1050d581",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /category/": {
+      "jsonName": "category-00b",
+      "internalComponentName": "ComponentCategory",
+      "path": "/category/",
+      "component": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/category.js",
+      "componentChunkName": "component---src-pages-category-js",
+      "context": {},
+      "pluginCreator___NODE": "e9b4751c-2389-584a-b230-93ef1050d581",
+      "pluginCreatorId": "e9b4751c-2389-584a-b230-93ef1050d581",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/category.js",
+      "id": "SitePage /category/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2b0ce267da4edf4c57254b9b3522d3b4",
+        "description": "e9b4751c-2389-584a-b230-93ef1050d581",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "jsonName": "contact-26a",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/contact.js",
+      "componentChunkName": "component---src-pages-contact-js",
+      "context": {},
+      "pluginCreator___NODE": "e9b4751c-2389-584a-b230-93ef1050d581",
+      "pluginCreatorId": "e9b4751c-2389-584a-b230-93ef1050d581",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/contact.js",
+      "id": "SitePage /contact/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b744c2bc23b90e2f3c6b6616e1c260dd",
+        "description": "e9b4751c-2389-584a-b230-93ef1050d581",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "e9b4751c-2389-584a-b230-93ef1050d581",
+      "pluginCreatorId": "e9b4751c-2389-584a-b230-93ef1050d581",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "39770a5431b7b711eaeaac33c909a7b9",
+        "description": "e9b4751c-2389-584a-b230-93ef1050d581",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /search/": {
+      "jsonName": "search-a73",
+      "internalComponentName": "ComponentSearch",
+      "path": "/search/",
+      "component": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/search.js",
+      "componentChunkName": "component---src-pages-search-js",
+      "context": {},
+      "pluginCreator___NODE": "e9b4751c-2389-584a-b230-93ef1050d581",
+      "pluginCreatorId": "e9b4751c-2389-584a-b230-93ef1050d581",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/search.js",
+      "id": "SitePage /search/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6c2ddbced4b97f6866610000fadae396",
+        "description": "e9b4751c-2389-584a-b230-93ef1050d581",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4159f5bb7ac1b7b7f0ddda1ac952eb30",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "6ab279498658ce48670142142777f6de"
+  },
+  "componentDataDependencies": {
+    "nodes": {},
+    "connections": {
+      "MarkdownRemark": [
+        null
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "contact-26a": "686/path---contact-26-a-cd9-NZuapzHg3X9TaN1iIixfv1W23E",
+    "search-a73": "68/path---search-a-73-83d-NZuapzHg3X9TaN1iIixfv1W23E",
+    "sq--src-layouts-index-js": 1721857271,
+    "category-testimonies-f17": "936/path---category-testimonies-f-17-15a-nVdXHJNQQM2SVabv6sKcQEXU",
+    "terms-8c4": "465/path---terms-8-c-4-c6a-iQoNcFvqxBsqOxO4e9IayMk26I",
+    "category-sayings-2fb": "736/path---category-sayings-2-fb-4da-EEAoo7DzZsOzlPIqRThWuReSQSI",
+    "privacy-06e": "909/path---privacy-06-e-82f-MFBzZYOAt5f4l5UtnYkRq4staQ",
+    "front-end-dev-80e": "578/path---front-end-dev-80-e-4b8-FwCltnz8TylwyU7aTd5EgCRo",
+    "about-f34": "270/path---about-f-34-4c2-kpogzY3bUBgK6j6CnTdWP95JljM",
+    "success-ca5": "969/path---success-ca-5-7fb-bv4tG2o7q79cXveZq40eBgoaRa4",
+    "starters-a58": "76/path---starters-a-58-958-l7l9duVOVhSBbaA0JTvzdudCg",
+    "category-00b": "193/path---category-00-b-7ef-NZuapzHg3X9TaN1iIixfv1W23E",
+    "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
+    "i-may-not-have-gone-407": "336/path---i-may-not-have-gone-407-9c3-CBtsT7Wpch4qOZWoDB66hcISNw",
+    "like-nonsense-14b": "962/path---like-nonsense-14-b-3a4-kmdEp7JI598NzgGadsB0Pw5cg",
+    "i-have-not-failed-b84": "646/path---i-have-not-failed-b-84-a58-QhFbM4GKFKHCbK54R6bZACEOhKY",
+    "i-am-so-clever-483": "182/path---i-am-so-clever-483-6ce-ZiQw13gji00uJ9HrN3uOi00",
+    "good-friends-ee4": "562/path---good-friends-ee-4-0d3-b91rLDCvCnsm88d6IVbQd9xYBM",
+    "there-are-only-two-fae": "46/path---there-are-only-two-fae-fed-S5xZMVbrZQGw4oSXxrmZUCLRg",
+    "imperfection-is-beauty-ccb": "873/path---imperfection-is-beauty-ccb-b61-BuN1JitsKnb9WUp35mGXbR29Tw",
+    "people-will-forget-9f8": "285/path---people-will-forget-9-f-8-c60-wAuUSe1qURCiut5cht8s14Hs",
+    "you-only-live-once-fc5": "20/path---you-only-live-once-fc-5-8b8-TN9U1b5eXhkIwtg6stjsolJPE",
+    "two-things-are-infinite-b61": "147/path---two-things-are-infinite-b-61-2f4-37eMwvZch83e02tfriqtmLhwus",
+    "draft-post-a23": "442/path---draft-post-a-23-ed3-6u48Quxuulqgq8Mppo3DAauuAc",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "be-who-you-are-944": "13/path---be-who-you-are-944-2ae-D96LIveVVc5GUuoiw7CkvtjqpRw",
+    "category-website-c73": "388/path---category-website-c-73-3ab-UXjpyiuv6vIf0HY3XOdfwkKn59A"
+  },
+  "components": {
+    "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/templates/CategoryTemplate.js": {
+      "query": "",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/templates/CategoryTemplate.js"
+    },
+    "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/templates/PostTemplate.js": {
+      "query": "",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/templates/PostTemplate.js"
+    },
+    "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/templates/PageTemplate.js": {
+      "query": "",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/templates/PageTemplate.js"
+    },
+    "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/.cache/dev-404-page.js"
+    },
+    "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/404.js": {
+      "query": "",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/404.js"
+    },
+    "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/category.js": {
+      "query": "",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/category.js"
+    },
+    "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/contact.js": {
+      "query": "",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/contact.js"
+    },
+    "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/index.js": {
+      "query": "",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/index.js"
+    },
+    "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/search.js": {
+      "query": "",
+      "componentPath": "C:/Users/fokstrot1/Desktop/Nowy folder (5)/stuff/src/pages/search.js"
+    }
+  },
+  "staticQueryComponents": {}
+}
