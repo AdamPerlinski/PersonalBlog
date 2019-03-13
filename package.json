@@ -58,6 +58,7 @@
   ],
   "scripts": {
     "build": "gatsby build",
+    "now-build": "npm run build",
     "develop": "gatsby develop",
     "devhost": "gatsby develop --host 192.168.0.112",
     "format": "prettier --write 'src/**/*.js'",
